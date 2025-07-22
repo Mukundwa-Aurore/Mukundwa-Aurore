@@ -1,97 +1,73 @@
-<!-- Profile README for Mukundwa-Aurore -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=435&lines=Mukundwa+Aurore;Software+Engineer;Full-Stack+Developer;Embedded+Systems+Dev" alt="Typing SVG" />
+  
+  <p>
+    <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/Mukundwa-Aurore"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://www.thecn.com/MA3358"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" /></a>
+  </p>
+</div>
 
-<h1 align="center">Hi, I'm Mukundwa Aurore 👋</h1>
+## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Student-Rwanda%20Coding%20Academy-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Software%20&%20Embedded%20Systems%20Dev-4B8BBE?style=flat-square" />
-  <img src="https://img.shields.io/badge/Full--Stack%20Web%20Developer-61DAFB?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/Community%20Empowerment-9B59B6?style=flat-square" />
-</p>
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukundwa-Aurore&layout=compact&theme=tokyonight" />
 
----
+Student at **Rwanda Coding Academy** passionate about building innovative tech solutions that empower communities. My focus spans software development, embedded systems, and blockchain technologies.
 
-## 🚀 About Me
+- 💡 Building civic-tech solutions with real-world impact
+- 🌱 Currently exploring AI-assisted development
+- 🤝 Open to collaboration and new opportunities
+- 🎓 Software & Embedded Systems Developer
 
-I'm a student at Rwanda Coding Academy, passionate about building innovative tech solutions that empower communities and support young creatives. My focus spans software and embedded systems, full-stack web development, and blockchain. I love merging design and functionality for real-world, civic-tech, and educational impact.
+<br clear="right"/>
 
-- 💡 Mission: Empowering communities through technology, mentorship, and creative collaboration
-- 🤝 Always open to new ideas and teamwork!
-- 👀 Exploring AI-assisted development for productivity and creativity
+## 🛠️ Tech Stack
 
----
+<div align="center">
+  
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  
+  ![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  
+</div>
 
-## 🛠️ Top Skills & Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Truffle-5E464D?style=flat-square&logo=truffle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ganache-F2A900?style=flat-square&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSocket-35495E?style=flat-square" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Basics-green?style=flat-square" />
-</p>
-
-- Full-Stack Web Development (React, Next.js, TypeScript, Node.js)
-- UI/UX with Tailwind CSS
-- Smart Contracts & Blockchain (Solidity, Truffle, Ganache)
-- Project structuring & MVP architecture
-- API design & integration
-- Embedded systems, IoT, and automation (C/C++, Arduino, WebSocket, MQTT)
-- Cybersecurity basics
-
----
 
 ## 🌟 Featured Projects
 
-### Citizen Engagement System MVP
-> 🏛️ A full-stack platform for citizens to submit complaints, track progress, and receive updates from government agencies.  
-> Modern React + Next.js frontend, secure APIs, scalable backend, and intuitive UI with Tailwind CSS.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Citizen Engagement System</h3>
+      <p>Full-stack platform connecting citizens with government agencies</p>
+      <p><strong>Tech:</strong> Next.js, React, Tailwind CSS</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Syntok</h3>
+      <p>Sign language translation app bridging communication gaps</p>
+      <p><strong>Tech:</strong> React Native, TensorFlow</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Iga Munyarwanda</h3>
+      <p>Mobile learning platform for rural education in Rwanda</p>
+      <p><strong>Tech:</strong> React Native, Node.js</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>IoT Light Scheduler</h3>
+      <p>Arduino-based smart light control system</p>
+      <p><strong>Tech:</strong> C++, Arduino, MQTT</p>
+    </td>
+  </tr>
+</table>
 
-### Syntok
-> 👋 A sign language translation app bridging communication gaps and fostering inclusivity.
-
-### Iga Munyarwanda
-> 📱 A mobile learning platform advancing rural education and language skills in Rwanda.
-
-### IoT Light Scheduler
-> 💡 Arduino-based smart light control system for energy efficiency and automation.
-
-### Solidity Smart Contracts Project
-> 🔗 Built and tested smart contracts for decentralized applications using Truffle and Ganache.
-
----
-
-## 👤 Quick Links
-
-- 🔗 [LinkedIn](#) <!-- Add your actual LinkedIn profile link -->
-- 💻 [GitHub: Mukundwa-Aurore](https://github.com/Mukundwa-Aurore)
-- 🌐 [Personal Website](https://www.thecn.com/MA3358)
-
----
-
-## ✨ Fun Facts
-
-- Passionate about creating civic-tech solutions that solve real-world problems
-- Enjoys merging design and functionality into intuitive user experiences
-- Loves exploring wireless power transmission and embedded tech
-- Empowering others through mentorship and collaboration
-- Believes in the power of creative innovation—and teamwork!
-
----
-
-<p align="center">
-  <img src="https://github.com/Mukundwa-Aurore/Mukundwa-Aurore/raw/main/assets/darklight-toggle.gif" width="120" alt="Theme toggle" /><br>
-  <sub>✨ Professional · Modern · Driven by Impact · Optional dark/light mode toggle for visual flair</sub>
-</p>
-
-<!-- Optional: Add theme toggle instructions, or a real toggle if using GitHub Profile README frameworks -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
