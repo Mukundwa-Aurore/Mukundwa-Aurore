@@ -39,34 +39,6 @@ Student at **Rwanda Coding Academy** passionate about building innovative tech s
 </div>
 
 
-## 🌟 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Citizen Engagement System</h3>
-      <p>Full-stack platform connecting citizens with government agencies</p>
-      <p><strong>Tech:</strong> Next.js, React, Tailwind CSS</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Syntok</h3>
-      <p>Sign language translation app bridging communication gaps</p>
-      <p><strong>Tech:</strong> React Native, TensorFlow</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Iga Munyarwanda</h3>
-      <p>Mobile learning platform for rural education in Rwanda</p>
-      <p><strong>Tech:</strong> React Native, Node.js</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>IoT Light Scheduler</h3>
-      <p>Arduino-based smart light control system</p>
-      <p><strong>Tech:</strong> C++, Arduino, MQTT</p>
-    </td>
-  </tr>
-</table>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
